@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>confirm-12*12</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M184,0 L191,7 L220,7 C222.209139,7 224,8.790861 224,11 L224,261 C224,263.209139 222.209139,265 220,265 L4,265 C1.790861,265 2.705415e-16,263.209139 0,261 L0,11 C-2.705415e-16,8.790861 1.790861,7 4,7 L177,7 L184,0 Z" id="path-1"></path>
+        <filter x="-8.5%" y="-6.4%" width="117.0%" height="114.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="经理端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="排版情况表---考勤班次选择" transform="translate(-324.000000, -467.000000)">
+            <g id="dropdown_multiple_select" transform="translate(136.000000, 271.000000)">
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <path stroke="#E4E7ED" stroke-width="1" d="M184,0.707106781 L177.207107,7.5 L4,7.5 C2.06700338,7.5 0.5,9.06700338 0.5,11 L0.5,261 C0.5,262.932997 2.06700338,264.5 4,264.5 L220,264.5 C221.932997,264.5 223.5,262.932997 223.5,261 L223.5,11 C223.5,9.06700338 221.932997,7.5 220,7.5 L190.792893,7.5 L184,0.707106781 Z" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd"></path>
+                </g>
+                <rect id="bg_active" x="1" y="187" width="222" height="34"></rect>
+                <polygon id="icon_select" fill="#1989FA" points="201.658 199 194.188 206.363 190.338 202.568 189 203.887 194.188 209 202.996 200.318"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
